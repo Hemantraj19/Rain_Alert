@@ -1,5 +1,3 @@
-Sure, here's a `README.md` for the provided code:
-
 ```markdown
 # Weather Alert System
 
